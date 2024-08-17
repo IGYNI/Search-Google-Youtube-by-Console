@@ -1,0 +1,14 @@
+C:\shtuki\17.08.24\bin\Debug\net8.0\17.08.24.exe
+C:\shtuki\17.08.24\bin\Debug\net8.0\17.08.24.deps.json
+C:\shtuki\17.08.24\bin\Debug\net8.0\17.08.24.runtimeconfig.json
+C:\shtuki\17.08.24\bin\Debug\net8.0\17.08.24.dll
+C:\shtuki\17.08.24\bin\Debug\net8.0\17.08.24.pdb
+C:\shtuki\17.08.24\obj\Debug\net8.0\17.08.24.GeneratedMSBuildEditorConfig.editorconfig
+C:\shtuki\17.08.24\obj\Debug\net8.0\17.08.24.AssemblyInfoInputs.cache
+C:\shtuki\17.08.24\obj\Debug\net8.0\17.08.24.AssemblyInfo.cs
+C:\shtuki\17.08.24\obj\Debug\net8.0\17.08.24.csproj.CoreCompileInputs.cache
+C:\shtuki\17.08.24\obj\Debug\net8.0\17.08.24.dll
+C:\shtuki\17.08.24\obj\Debug\net8.0\refint\17.08.24.dll
+C:\shtuki\17.08.24\obj\Debug\net8.0\17.08.24.pdb
+C:\shtuki\17.08.24\obj\Debug\net8.0\17.08.24.genruntimeconfig.cache
+C:\shtuki\17.08.24\obj\Debug\net8.0\ref\17.08.24.dll
